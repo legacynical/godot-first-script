@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://hpwoovuw8hmx"]
+
+[ext_resource type="Texture2D" uid="uid://bk07beuhygbcp" path="res://c-sharp-c-seeklogo.svg" id="1_k2mxy"]
+[ext_resource type="Script" path="res://Sprite2D_Csharp.cs" id="2_tq3wa"]
+
+[node name="Sprite2D_CSharp" type="Sprite2D"]
+position = Vector2(581, 454)
+scale = Vector2(0.430664, 0.430664)
+texture = ExtResource("1_k2mxy")
+script = ExtResource("2_tq3wa")
